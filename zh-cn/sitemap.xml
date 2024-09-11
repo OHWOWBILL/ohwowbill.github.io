@@ -17,6 +17,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/"
                 />
@@ -30,6 +35,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/categories/"
                 />
@@ -40,6 +50,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -124,6 +139,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
