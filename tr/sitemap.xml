@@ -53,6 +53,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="tr"
                 href="http://localhost:1313/tr/post/"
                 />

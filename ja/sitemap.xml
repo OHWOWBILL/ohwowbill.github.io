@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ja/categories/</loc>
+    <lastmod>2024-08-31T00:53:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -19,6 +20,48 @@
                 href="http://localhost:1313/ja/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ja/post/</loc>
+    <lastmod>2024-08-31T00:53:21+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/</loc>
+    <lastmod>2024-08-31T00:53:21+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/categories/%E5%B0%8F%E8%AA%AC/</loc>
+    <lastmod>2024-08-31T00:53:21+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ja/p/%E7%AC%AC%E4%B8%80%E5%B7%BB%E6%9D%B1%E4%BA%AC%E7%A7%8B%E5%A4%9C%E9%9B%A8%E3%83%BC%E3%83%BC%E5%BA%8F/</loc>
+    <lastmod>2024-08-31T00:53:21+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,23 +77,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/"
                 />
   </url>
 </urlset>
