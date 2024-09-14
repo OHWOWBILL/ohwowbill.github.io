@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 潜蛟子-ohwowbill</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://ohwowbill.github.io/page/</link>
         <description>Recent content in Pages on 潜蛟子-ohwowbill</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ohwowbill</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ohwowbill.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>万法归一</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://ohwowbill.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://ohwowbill.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>传送之界</title>
-        <link>http://localhost:1313/%E4%BC%A0%E9%80%81%E4%B9%8B%E7%95%8C/</link>
+        <link>https://ohwowbill.github.io/%E4%BC%A0%E9%80%81%E4%B9%8B%E7%95%8C/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E4%BC%A0%E9%80%81%E4%B9%8B%E7%95%8C/</guid>
+        <guid>https://ohwowbill.github.io/%E4%BC%A0%E9%80%81%E4%B9%8B%E7%95%8C/</guid>
         <description></description>
         </item>
         <item>
         <title>阁主何人</title>
-        <link>http://localhost:1313/%E9%98%81%E4%B8%BB%E4%BD%95%E4%BA%BA/</link>
+        <link>https://ohwowbill.github.io/%E9%98%81%E4%B8%BB%E4%BD%95%E4%BA%BA/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E9%98%81%E4%B8%BB%E4%BD%95%E4%BA%BA/</guid>
+        <guid>https://ohwowbill.github.io/%E9%98%81%E4%B8%BB%E4%BD%95%E4%BA%BA/</guid>
         <description>&lt;p&gt;自号潜蛟子，现居蓬莱之业余艺术家，偶尔接点算命占卦的活。&lt;/p&gt;
 &lt;p&gt;留有分身于软件“过客”，亦时常驻足于各大社交平台。&lt;/p&gt;
 &lt;hr&gt;
@@ -39,10 +39,10 @@
         </item>
         <item>
         <title>寻物</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://ohwowbill.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://ohwowbill.github.io/search/</guid>
         <description></description>
         </item>
         

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 潜蛟子-ohwowbill</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://ohwowbill.github.io/post/</link>
         <description>Recent content in Posts on 潜蛟子-ohwowbill</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ohwowbill</copyright>
-        <lastBuildDate>Sat, 14 Sep 2024 19:30:06 +0900</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Sep 2024 19:30:06 +0900</lastBuildDate><atom:link href="https://ohwowbill.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>【置顶】志追随者</title>
-        <link>http://localhost:1313/p/%E7%BD%AE%E9%A1%B6%E5%BF%97%E8%BF%BD%E9%9A%8F%E8%80%85/</link>
+        <link>https://ohwowbill.github.io/p/%E7%BD%AE%E9%A1%B6%E5%BF%97%E8%BF%BD%E9%9A%8F%E8%80%85/</link>
         <pubDate>Wed, 11 Sep 2024 00:16:18 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%BD%AE%E9%A1%B6%E5%BF%97%E8%BF%BD%E9%9A%8F%E8%80%85/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/star.jpg&#34;
+        <guid>https://ohwowbill.github.io/p/%E7%BD%AE%E9%A1%B6%E5%BF%97%E8%BF%BD%E9%9A%8F%E8%80%85/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://ohwowbill.github.io/img/star.jpg&#34;
 	
 	
 	
@@ -40,10 +40,10 @@
         </item>
         <item>
         <title>【置顶】情绪本源论</title>
-        <link>http://localhost:1313/p/%E7%BD%AE%E9%A1%B6%E6%83%85%E7%BB%AA%E6%9C%AC%E6%BA%90%E8%AE%BA/</link>
+        <link>https://ohwowbill.github.io/p/%E7%BD%AE%E9%A1%B6%E6%83%85%E7%BB%AA%E6%9C%AC%E6%BA%90%E8%AE%BA/</link>
         <pubDate>Fri, 06 Sep 2024 02:16:09 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%BD%AE%E9%A1%B6%E6%83%85%E7%BB%AA%E6%9C%AC%E6%BA%90%E8%AE%BA/</guid>
+        <guid>https://ohwowbill.github.io/p/%E7%BD%AE%E9%A1%B6%E6%83%85%E7%BB%AA%E6%9C%AC%E6%BA%90%E8%AE%BA/</guid>
         <description>&lt;h1 id=&#34;情绪本源论&#34;&gt;情绪本源论
 &lt;/h1&gt;&lt;p&gt;这个系列就把我在接触并体悟后，觉得有道理的模型，融成自己的想法吧。&lt;/p&gt;
 &lt;h2 id=&#34;核心&#34;&gt;核心
@@ -102,10 +102,10 @@
         </item>
         <item>
         <title>问题列表</title>
-        <link>http://localhost:1313/p/%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8/</link>
+        <link>https://ohwowbill.github.io/p/%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8/</link>
         <pubDate>Sat, 14 Sep 2024 19:30:06 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8/</guid>
+        <guid>https://ohwowbill.github.io/p/%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8/</guid>
         <description>&lt;p&gt;列出所有疑问和解答。&lt;/p&gt;
 &lt;p&gt;欢迎投稿。&lt;/p&gt;
 &lt;hr&gt;
@@ -250,11 +250,11 @@
         </item>
         <item>
         <title>相片故事之落日列车</title>
-        <link>http://localhost:1313/p/%E7%9B%B8%E7%89%87%E6%95%85%E4%BA%8B%E4%B9%8B%E8%90%BD%E6%97%A5%E5%88%97%E8%BD%A6/</link>
+        <link>https://ohwowbill.github.io/p/%E7%9B%B8%E7%89%87%E6%95%85%E4%BA%8B%E4%B9%8B%E8%90%BD%E6%97%A5%E5%88%97%E8%BD%A6/</link>
         <pubDate>Wed, 11 Sep 2024 11:56:58 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%9B%B8%E7%89%87%E6%95%85%E4%BA%8B%E4%B9%8B%E8%90%BD%E6%97%A5%E5%88%97%E8%BD%A6/</guid>
-        <description>&lt;img src="http://localhost:1313/img/train.jpg" alt="Featured image of post 相片故事之落日列车" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/train.jpg&#34;
+        <guid>https://ohwowbill.github.io/p/%E7%9B%B8%E7%89%87%E6%95%85%E4%BA%8B%E4%B9%8B%E8%90%BD%E6%97%A5%E5%88%97%E8%BD%A6/</guid>
+        <description>&lt;img src="https://ohwowbill.github.io/img/train.jpg" alt="Featured image of post 相片故事之落日列车" /&gt;&lt;p&gt;&lt;img src=&#34;https://ohwowbill.github.io/img/train.jpg&#34;
 	
 	
 	
@@ -277,10 +277,10 @@
         </item>
         <item>
         <title>必背（二）——十总穴&#43;天星十二穴</title>
-        <link>http://localhost:1313/p/%E5%BF%85%E8%83%8C%E4%BA%8C%E5%8D%81%E6%80%BB%E7%A9%B4-%E5%A4%A9%E6%98%9F%E5%8D%81%E4%BA%8C%E7%A9%B4/</link>
+        <link>https://ohwowbill.github.io/p/%E5%BF%85%E8%83%8C%E4%BA%8C%E5%8D%81%E6%80%BB%E7%A9%B4-%E5%A4%A9%E6%98%9F%E5%8D%81%E4%BA%8C%E7%A9%B4/</link>
         <pubDate>Fri, 06 Sep 2024 19:46:12 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%BF%85%E8%83%8C%E4%BA%8C%E5%8D%81%E6%80%BB%E7%A9%B4-%E5%A4%A9%E6%98%9F%E5%8D%81%E4%BA%8C%E7%A9%B4/</guid>
+        <guid>https://ohwowbill.github.io/p/%E5%BF%85%E8%83%8C%E4%BA%8C%E5%8D%81%E6%80%BB%E7%A9%B4-%E5%A4%A9%E6%98%9F%E5%8D%81%E4%BA%8C%E7%A9%B4/</guid>
         <description>&lt;p&gt;讲点针灸用的，首先是十总穴。&lt;/p&gt;
 &lt;h2 id=&#34;十总穴&#34;&gt;十总穴
 &lt;/h2&gt;&lt;blockquote&gt;
@@ -342,10 +342,10 @@
         </item>
         <item>
         <title>必背（一）——原病式</title>
-        <link>http://localhost:1313/p/%E5%BF%85%E8%83%8C%E4%B8%80%E5%8E%9F%E7%97%85%E5%BC%8F/</link>
+        <link>https://ohwowbill.github.io/p/%E5%BF%85%E8%83%8C%E4%B8%80%E5%8E%9F%E7%97%85%E5%BC%8F/</link>
         <pubDate>Fri, 06 Sep 2024 12:46:52 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%BF%85%E8%83%8C%E4%B8%80%E5%8E%9F%E7%97%85%E5%BC%8F/</guid>
+        <guid>https://ohwowbill.github.io/p/%E5%BF%85%E8%83%8C%E4%B8%80%E5%8E%9F%E7%97%85%E5%BC%8F/</guid>
         <description>&lt;h1 id=&#34;原病式&#34;&gt;原病式
 &lt;/h1&gt;&lt;p&gt;这个系列就把我该背的基础东西记下了。&lt;/p&gt;
 &lt;p&gt;今天先记原病式。顺便讲一点点应用。&lt;/p&gt;
@@ -368,10 +368,10 @@
         </item>
         <item>
         <title>鲁拜集（二）</title>
-        <link>http://localhost:1313/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%BA%8C/</link>
+        <link>https://ohwowbill.github.io/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%BA%8C/</link>
         <pubDate>Fri, 06 Sep 2024 05:53:02 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%BA%8C/</guid>
+        <guid>https://ohwowbill.github.io/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%BA%8C/</guid>
         <description>&lt;h1 id=&#34;从鲁拜集学波斯语&#34;&gt;从鲁拜集学波斯语
 &lt;/h1&gt;&lt;p&gt;今天继续学习。&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ganjoor.net/khayyam/robaee/sh116&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -567,10 +567,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>鲁拜集（一）</title>
-        <link>http://localhost:1313/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%B8%80/</link>
+        <link>https://ohwowbill.github.io/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%B8%80/</link>
         <pubDate>Thu, 05 Sep 2024 01:24:19 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%B8%80/</guid>
+        <guid>https://ohwowbill.github.io/p/%E9%B2%81%E6%8B%9C%E9%9B%86%E4%B8%80/</guid>
         <description>&lt;h1 id=&#34;从鲁拜集学波斯语&#34;&gt;从鲁拜集学波斯语
 &lt;/h1&gt;&lt;p&gt;今天来看一首诗。&lt;/p&gt;
 &lt;p&gt;顺带一提，鲁拜集这种四行诗的格式就和绝句一样：一二四句押韵。&lt;/p&gt;
@@ -750,10 +750,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>寓意草（一）</title>
-        <link>http://localhost:1313/p/%E5%AF%93%E6%84%8F%E8%8D%89%E4%B8%80/</link>
+        <link>https://ohwowbill.github.io/p/%E5%AF%93%E6%84%8F%E8%8D%89%E4%B8%80/</link>
         <pubDate>Fri, 30 Aug 2024 20:59:24 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%AF%93%E6%84%8F%E8%8D%89%E4%B8%80/</guid>
+        <guid>https://ohwowbill.github.io/p/%E5%AF%93%E6%84%8F%E8%8D%89%E4%B8%80/</guid>
         <description>&lt;h1 id=&#34;读医案寓意草一&#34;&gt;读医案——寓意草（一）
 &lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://jicheng.tw/tcm/book/%e5%af%93%e6%84%8f%e8%8d%89/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;寓意草原文&lt;/a&gt;&lt;/p&gt;
@@ -904,11 +904,11 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>鸿蒙初开</title>
-        <link>http://localhost:1313/p/%E9%B8%BF%E8%92%99%E5%88%9D%E5%BC%80/</link>
+        <link>https://ohwowbill.github.io/p/%E9%B8%BF%E8%92%99%E5%88%9D%E5%BC%80/</link>
         <pubDate>Fri, 30 Aug 2024 04:35:27 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%B8%BF%E8%92%99%E5%88%9D%E5%BC%80/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E9%B8%BF%E8%92%99%E5%88%9D%E5%BC%80/1.jpeg" alt="Featured image of post 鸿蒙初开" /&gt;&lt;h1 id=&#34;鼓捣一日终是成功开辟了一个新天地&#34;&gt;鼓捣一日，终是成功开辟了一个新天地。
+        <guid>https://ohwowbill.github.io/p/%E9%B8%BF%E8%92%99%E5%88%9D%E5%BC%80/</guid>
+        <description>&lt;img src="https://ohwowbill.github.io/p/%E9%B8%BF%E8%92%99%E5%88%9D%E5%BC%80/1.jpeg" alt="Featured image of post 鸿蒙初开" /&gt;&lt;h1 id=&#34;鼓捣一日终是成功开辟了一个新天地&#34;&gt;鼓捣一日，终是成功开辟了一个新天地。
 &lt;/h1&gt;&lt;h2 id=&#34;特以此文作头以纪念所谓万物伊始&#34;&gt;特以此文作头，以纪念所谓万物伊始。
 &lt;/h2&gt;&lt;p&gt;闲暇时无病呻吟挥笔二三，倒也不失雅趣。&lt;/p&gt;
 &lt;p&gt;估计先来记录自己看的医案，就算个学习记录了吧。&lt;/p&gt;
@@ -916,10 +916,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>答疑之如何改变自己胆怯的性格</title>
-        <link>http://localhost:1313/p/%E7%AD%94%E7%96%91%E4%B9%8B%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E8%83%86%E6%80%AF%E7%9A%84%E6%80%A7%E6%A0%BC/</link>
+        <link>https://ohwowbill.github.io/p/%E7%AD%94%E7%96%91%E4%B9%8B%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E8%83%86%E6%80%AF%E7%9A%84%E6%80%A7%E6%A0%BC/</link>
         <pubDate>Fri, 24 Mar 2023 16:10:05 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%AD%94%E7%96%91%E4%B9%8B%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E8%83%86%E6%80%AF%E7%9A%84%E6%80%A7%E6%A0%BC/</guid>
+        <guid>https://ohwowbill.github.io/p/%E7%AD%94%E7%96%91%E4%B9%8B%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E8%83%86%E6%80%AF%E7%9A%84%E6%80%A7%E6%A0%BC/</guid>
         <description>&lt;p&gt;阁主认为，凡行事必有其动机。若无，则扪心自问都得不到答案，又岂能求答于外？&lt;/p&gt;
 &lt;p&gt;其次，胆怯有先天后天之别：先天性怯者，非是不能改变，而是需有上述所谓“动机”，动机能使人做欲做之事，犹如驾驴之所以前行乃为求食也。而本性胆小，便须知此事急不得，揠苗助长云云自不必多言。&lt;/p&gt;
 &lt;p&gt;后天胆怯者，当务之急不为改变，而是“去因”，追本溯源、究其根底，必有所以惧之因也。昔所谓战后相关心理疾病等，或为此俦焉。一朝被蛇咬，十年怕井绳，先去惧之因，再论改其性。&lt;/p&gt;
@@ -929,10 +929,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>福祸（2021）</title>
-        <link>http://localhost:1313/p/%E7%A6%8F%E7%A5%B82021/</link>
+        <link>https://ohwowbill.github.io/p/%E7%A6%8F%E7%A5%B82021/</link>
         <pubDate>Fri, 24 Mar 2023 11:43:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%A6%8F%E7%A5%B82021/</guid>
+        <guid>https://ohwowbill.github.io/p/%E7%A6%8F%E7%A5%B82021/</guid>
         <description>&lt;p&gt;俗话说得好，上天为你关上一扇门，绝对不会忘记在放一条恶犬进来……&lt;/p&gt;
 &lt;p&gt;有道是祸不单行福无双至，盼自己能泰山崩于前而面色不改，既逢之则安之。&lt;/p&gt;
 &lt;p&gt;如同三易之中的变易，不能只是恪守死规则——&lt;/p&gt;
@@ -943,10 +943,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>秋。夜。雨（2021）</title>
-        <link>http://localhost:1313/p/%E7%A7%8B%E5%A4%9C%E9%9B%A82021/</link>
+        <link>https://ohwowbill.github.io/p/%E7%A7%8B%E5%A4%9C%E9%9B%A82021/</link>
         <pubDate>Thu, 23 Mar 2023 23:21:06 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%A7%8B%E5%A4%9C%E9%9B%A82021/</guid>
+        <guid>https://ohwowbill.github.io/p/%E7%A7%8B%E5%A4%9C%E9%9B%A82021/</guid>
         <description>&lt;p&gt;四季传衍，吾独爱秋&lt;/p&gt;
 &lt;p&gt;日月递嬗，吾独爱夜&lt;/p&gt;
 &lt;p&gt;阴晴更迭，吾独爱雨&lt;/p&gt;
@@ -963,10 +963,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>论兴趣（2021）</title>
-        <link>http://localhost:1313/p/%E8%AE%BA%E5%85%B4%E8%B6%A32021/</link>
+        <link>https://ohwowbill.github.io/p/%E8%AE%BA%E5%85%B4%E8%B6%A32021/</link>
         <pubDate>Thu, 23 Mar 2023 00:22:15 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E8%AE%BA%E5%85%B4%E8%B6%A32021/</guid>
+        <guid>https://ohwowbill.github.io/p/%E8%AE%BA%E5%85%B4%E8%B6%A32021/</guid>
         <description>&lt;p&gt;任何一种兴趣都包含着&lt;/p&gt;
 &lt;p&gt;天性中有倾向性的呼声&lt;/p&gt;
 &lt;p&gt;也许还包含着&lt;/p&gt;
@@ -977,10 +977,10 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>天地渐开</title>
-        <link>http://localhost:1313/p/%E5%A4%A9%E5%9C%B0%E6%B8%90%E5%BC%80/</link>
+        <link>https://ohwowbill.github.io/p/%E5%A4%A9%E5%9C%B0%E6%B8%90%E5%BC%80/</link>
         <pubDate>Thu, 16 Mar 2023 17:56:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%A4%A9%E5%9C%B0%E6%B8%90%E5%BC%80/</guid>
+        <guid>https://ohwowbill.github.io/p/%E5%A4%A9%E5%9C%B0%E6%B8%90%E5%BC%80/</guid>
         <description>&lt;p&gt;虽说现在还没人造访这块小地方，但依旧想写点什么。&lt;/p&gt;
 &lt;p&gt;其实阁主所习的鼯鼠之技都有个明显的共同点：实用或是装ᴮ。&lt;/p&gt;
 &lt;p&gt;举例来说，开锁就是个很实用的技能，当今天管理柜子的人忘带钥匙，把公用笔记本都给锁起来的情况下，阁主依然能打开柜子若无其事的“探囊取物”。&lt;/p&gt;
@@ -992,11 +992,11 @@ You were&amp;ndash;TO-MORROW you shall not be less.&lt;/p&gt;
         </item>
         <item>
         <title>初创天地（过客版）</title>
-        <link>http://localhost:1313/p/%E5%88%9D%E5%88%9B%E5%A4%A9%E5%9C%B0%E8%BF%87%E5%AE%A2%E7%89%88/</link>
+        <link>https://ohwowbill.github.io/p/%E5%88%9D%E5%88%9B%E5%A4%A9%E5%9C%B0%E8%BF%87%E5%AE%A2%E7%89%88/</link>
         <pubDate>Wed, 15 Mar 2023 17:35:09 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%88%9D%E5%88%9B%E5%A4%A9%E5%9C%B0%E8%BF%87%E5%AE%A2%E7%89%88/</guid>
-        <description>&lt;img src="http://localhost:1313/img/guoke.jpg" alt="Featured image of post 初创天地（过客版）" /&gt;&lt;p&gt;古有盘古开天辟地，今有我潜蛟拓四方。&lt;/p&gt;
+        <guid>https://ohwowbill.github.io/p/%E5%88%9D%E5%88%9B%E5%A4%A9%E5%9C%B0%E8%BF%87%E5%AE%A2%E7%89%88/</guid>
+        <description>&lt;img src="https://ohwowbill.github.io/img/guoke.jpg" alt="Featured image of post 初创天地（过客版）" /&gt;&lt;p&gt;古有盘古开天辟地，今有我潜蛟拓四方。&lt;/p&gt;
 &lt;p&gt;阁主五术中最擅长占，中西皆如是，梅花和塔罗都是趁手的好工具；反观星盘，中西都不容易，可能时候未到还没悟透吧。&lt;/p&gt;
 &lt;p&gt;闲来琢磨这些也格外有意思，再者就瞎琢磨雕虫小技了，开锁只会一字锁，行于路上便喜观察每个锁，以及臆测自己有几分把握能开。&lt;/p&gt;
 &lt;p&gt;其次就是些无聊的小术了，从转笔、蝴蝶刀玩到爪刀、打火机，就算是魔方亦是钻研方法，他人皆是竞速，我只在乎我会多少种解法。&lt;/p&gt;

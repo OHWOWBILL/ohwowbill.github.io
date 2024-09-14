@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on ますだ-ohwowbill</title>
-        <link>http://localhost:1313/ja/categories/</link>
+        <link>https://ohwowbill.github.io/ja/categories/</link>
         <description>Recent content in Categories on ますだ-ohwowbill</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
         <copyright>ohwowbill</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 00:53:21 +0900</lastBuildDate><atom:link href="http://localhost:1313/ja/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 00:53:21 +0900</lastBuildDate><atom:link href="https://ohwowbill.github.io/ja/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>小説</title>
-        <link>http://localhost:1313/ja/categories/%E5%B0%8F%E8%AA%AC/</link>
+        <link>https://ohwowbill.github.io/ja/categories/%E5%B0%8F%E8%AA%AC/</link>
         <pubDate>Sat, 31 Aug 2024 00:53:21 +0900</pubDate>
         
-        <guid>http://localhost:1313/ja/categories/%E5%B0%8F%E8%AA%AC/</guid>
+        <guid>https://ohwowbill.github.io/ja/categories/%E5%B0%8F%E8%AA%AC/</guid>
         <description></description>
         </item>
         

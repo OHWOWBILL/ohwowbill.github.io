@@ -2,81 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ja/categories/</loc>
+    <loc>https://ohwowbill.github.io/ja/categories/</loc>
     <lastmod>2024-08-31T00:53:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="https://ohwowbill.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/categories/"
+                href="https://ohwowbill.github.io/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="https://ohwowbill.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/post/</loc>
+    <loc>https://ohwowbill.github.io/ja/post/</loc>
     <lastmod>2024-08-31T00:53:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/post/"
+                href="https://ohwowbill.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/post/"
+                href="https://ohwowbill.github.io/tr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/post/"
+                href="https://ohwowbill.github.io/ja/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/</loc>
+    <loc>https://ohwowbill.github.io/ja/</loc>
     <lastmod>2024-08-31T00:53:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/"
+                href="https://ohwowbill.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/"
+                href="https://ohwowbill.github.io/tr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/"
+                href="https://ohwowbill.github.io/ja/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/categories/%E5%B0%8F%E8%AA%AC/</loc>
+    <loc>https://ohwowbill.github.io/ja/categories/%E5%B0%8F%E8%AA%AC/</loc>
     <lastmod>2024-08-31T00:53:21+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ja/p/%E7%AC%AC%E4%B8%80%E5%B7%BB%E6%9D%B1%E4%BA%AC%E7%A7%8B%E5%A4%9C%E9%9B%A8%E3%83%BC%E3%83%BC%E5%BA%8F/</loc>
+    <loc>https://ohwowbill.github.io/ja/p/%E7%AC%AC%E4%B8%80%E5%B7%BB%E6%9D%B1%E4%BA%AC%E7%A7%8B%E5%A4%9C%E9%9B%A8%E3%83%BC%E3%83%BC%E5%BA%8F/</loc>
     <lastmod>2024-08-31T00:53:21+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ja/tags/</loc>
+    <loc>https://ohwowbill.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="https://ohwowbill.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/tags/"
+                href="https://ohwowbill.github.io/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                href="https://ohwowbill.github.io/ja/tags/"
                 />
   </url>
 </urlset>
