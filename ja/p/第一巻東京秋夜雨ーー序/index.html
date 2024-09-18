@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://ohwowbill.github.io/ja/p/%E7%AC%AC%E4%B8%80%E5%B7%BB%E6%9D%B1%E4%BA%AC%E7%A7%8B%E5%A4%9C%E9%9B%A8%E3%83%BC%E3%83%BC%E5%BA%8F/'>
 
-<link rel="stylesheet" href="/scss/style.min.f7d99a394ed960296bd4c430ae662085351f2c23418cb80e2a2e4a22e833cbcd.css"><meta property='og:title' content="第一巻：東京秋夜雨ーー序">
+<link rel="stylesheet" href="/scss/style.min.a487859706f4896d2a166ccb2e5eabf3e636241666b0c110b74347282bcacf88.css"><meta property='og:title' content="第一巻：東京秋夜雨ーー序">
 <meta property='og:description' content="日は紙だ。一枚なら風に流されてすぐ消えたが、正にそう言う幾重(いくえ)の取るに足らないで、枠組みが凝って形成され、2人が収まるピッタリの、異">
 <meta property='og:url' content='https://ohwowbill.github.io/ja/p/%E7%AC%AC%E4%B8%80%E5%B7%BB%E6%9D%B1%E4%BA%AC%E7%A7%8B%E5%A4%9C%E9%9B%A8%E3%83%BC%E3%83%BC%E5%BA%8F/'>
 <meta property='og:site_name' content='ますだ-ohwowbill'>
@@ -17,7 +17,34 @@
 
   
 
-
+<style>
+    .gallery-photos{width:100%;break-inside: avoid;margin-bottom: 10px;}
+    .gallery-photo{width:33.3%;position: relative;padding:0px 4px 0px 4px;visibility: hidden;overflow: hidden;}
+    .gallery-photo.visible{visibility: visible;}
+    .gallery-photo img{width: 100%;height: 100%;object-fit: cover;border-radius: 5px;box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);}
+    @media screen and (min-width: 1200x) {
+      .gallery-photo{
+      width: 100%;
+      columns: 3;
+      column-gap: 20px;
+      }
+    }
+    @media screen and (min-width: 860px) and (max-width: 1323.98px) {
+      .gallery-photo{    
+      width: 100%;
+      columns: 2;
+      column-gap: 20px;}
+    }
+    @media screen and (max-width: 860px) {
+      .gallery-photo{    
+      width: 100%;
+      columns: 1;}
+    }
+    @media (max-width: 767.98px){
+      .photo-time{display: none;}
+    }
+  </style>
+  
     </head>
     <body class="
     article-page
@@ -403,6 +430,47 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+
+<script src="https://immmmm.com/waterfall.min.js"></script>
+<script src="https://immmmm.com/imgStatus.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  
+  var photosAll = document.getElementsByTagName('gallery') || '';
+  if(photosAll){
+    for(var i=0;i < photosAll.length;i++){
+      photosAll[i].innerHTML = '<div class="gallery-photos">'+photosAll[i].innerHTML+'</div>'
+      var photosIMG = photosAll[i].getElementsByTagName('img')
+      for(var j=0;j < photosIMG.length;j++){
+        wrap(photosIMG[j], document.createElement('div'));
+      }
+    }
+  }
+  function wrap(el, wrapper) {
+    wrapper.className = "gallery-photo";
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+  }
+  
+  let galleryPhotos = document.querySelectorAll('.gallery-photos') || ''
+  if(galleryPhotos){
+    imgStatus.watch('.gallery-photo img', function(imgs) {
+      if(imgs.isDone()){
+        for(var i=0;i < galleryPhotos.length;i++){
+          waterfall(galleryPhotos[i]);
+          let pagePhoto = galleryPhotos[i].querySelectorAll('.gallery-photo');
+          for(var j=0;j < pagePhoto.length;j++){pagePhoto[j].className += " visible"};
+        }
+      }
+    });
+    window.addEventListener('resize', function () {
+      for(var i=0;i < galleryPhotos.length;i++){
+        waterfall(galleryPhotos[i]);
+      }
+    });
+  }
+});
 </script>
 
     </body>

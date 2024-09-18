@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://ohwowbill.github.io/%E9%98%81%E4%B8%BB%E4%BD%95%E4%BA%BA/'>
 
-<link rel="stylesheet" href="/scss/style.min.f7d99a394ed960296bd4c430ae662085351f2c23418cb80e2a2e4a22e833cbcd.css"><meta property='og:title' content="阁主何人">
+<link rel="stylesheet" href="/scss/style.min.a487859706f4896d2a166ccb2e5eabf3e636241666b0c110b74347282bcacf88.css"><meta property='og:title' content="阁主何人">
 <meta property='og:description' content="自号潜蛟子，现居蓬莱之业余艺术家，偶尔接点算命占卦的活。 留有分身于软件“过客”，亦时常驻足于各大社交平台。 关于潜蛟阁： 此隅载吾作，广迎四海八">
 <meta property='og:url' content='https://ohwowbill.github.io/%E9%98%81%E4%B8%BB%E4%BD%95%E4%BA%BA/'>
 <meta property='og:site_name' content='潜蛟子-ohwowbill'>
@@ -17,7 +17,34 @@
 
   
 
-
+<style>
+    .gallery-photos{width:100%;break-inside: avoid;margin-bottom: 10px;}
+    .gallery-photo{width:33.3%;position: relative;padding:0px 4px 0px 4px;visibility: hidden;overflow: hidden;}
+    .gallery-photo.visible{visibility: visible;}
+    .gallery-photo img{width: 100%;height: 100%;object-fit: cover;border-radius: 5px;box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);}
+    @media screen and (min-width: 1200x) {
+      .gallery-photo{
+      width: 100%;
+      columns: 3;
+      column-gap: 20px;
+      }
+    }
+    @media screen and (min-width: 860px) and (max-width: 1323.98px) {
+      .gallery-photo{    
+      width: 100%;
+      columns: 2;
+      column-gap: 20px;}
+    }
+    @media screen and (max-width: 860px) {
+      .gallery-photo{    
+      width: 100%;
+      columns: 1;}
+    }
+    @media (max-width: 767.98px){
+      .photo-time{display: none;}
+    }
+  </style>
+  
     </head>
     <body class="
     article-page
@@ -481,6 +508,47 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+
+<script src="https://immmmm.com/waterfall.min.js"></script>
+<script src="https://immmmm.com/imgStatus.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  
+  var photosAll = document.getElementsByTagName('gallery') || '';
+  if(photosAll){
+    for(var i=0;i < photosAll.length;i++){
+      photosAll[i].innerHTML = '<div class="gallery-photos">'+photosAll[i].innerHTML+'</div>'
+      var photosIMG = photosAll[i].getElementsByTagName('img')
+      for(var j=0;j < photosIMG.length;j++){
+        wrap(photosIMG[j], document.createElement('div'));
+      }
+    }
+  }
+  function wrap(el, wrapper) {
+    wrapper.className = "gallery-photo";
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+  }
+  
+  let galleryPhotos = document.querySelectorAll('.gallery-photos') || ''
+  if(galleryPhotos){
+    imgStatus.watch('.gallery-photo img', function(imgs) {
+      if(imgs.isDone()){
+        for(var i=0;i < galleryPhotos.length;i++){
+          waterfall(galleryPhotos[i]);
+          let pagePhoto = galleryPhotos[i].querySelectorAll('.gallery-photo');
+          for(var j=0;j < pagePhoto.length;j++){pagePhoto[j].className += " visible"};
+        }
+      }
+    });
+    window.addEventListener('resize', function () {
+      for(var i=0;i < galleryPhotos.length;i++){
+        waterfall(galleryPhotos[i]);
+      }
+    });
+  }
+});
 </script>
 
     </body>

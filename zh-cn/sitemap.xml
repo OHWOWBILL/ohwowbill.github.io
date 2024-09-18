@@ -12,7 +12,7 @@
     <lastmod>2024-09-14T19:30:06+09:00</lastmod>
   </url><url>
     <loc>https://ohwowbill.github.io/</loc>
-    <lastmod>2024-09-14T19:30:06+09:00</lastmod>
+    <lastmod>2024-09-17T23:25:26+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -29,26 +29,8 @@
                 href="https://ohwowbill.github.io/"
                 />
   </url><url>
-    <loc>https://ohwowbill.github.io/post/</loc>
-    <lastmod>2024-09-14T19:30:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ohwowbill.github.io/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://ohwowbill.github.io/tr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ohwowbill.github.io/post/"
-                />
-  </url><url>
     <loc>https://ohwowbill.github.io/categories/</loc>
-    <lastmod>2024-09-11T11:56:58+09:00</lastmod>
+    <lastmod>2024-09-17T23:25:26+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -65,10 +47,31 @@
                 href="https://ohwowbill.github.io/categories/"
                 />
   </url><url>
-    <loc>https://ohwowbill.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-09-11T11:56:58+09:00</lastmod>
+    <loc>https://ohwowbill.github.io/post/</loc>
+    <lastmod>2024-09-17T23:25:26+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ohwowbill.github.io/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ohwowbill.github.io/tr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ohwowbill.github.io/post/"
+                />
   </url><url>
     <loc>https://ohwowbill.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2024-09-17T23:25:26+09:00</lastmod>
+  </url><url>
+    <loc>https://ohwowbill.github.io/p/%E4%B8%AD%E7%A7%8B/</loc>
+    <lastmod>2024-09-17T23:25:26+09:00</lastmod>
+  </url><url>
+    <loc>https://ohwowbill.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-09-11T11:56:58+09:00</lastmod>
   </url><url>
     <loc>https://ohwowbill.github.io/categories/%E7%9B%B8%E7%89%87%E6%95%85%E4%BA%8B/</loc>
