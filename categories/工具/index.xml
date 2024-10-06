@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>工具 on 潜蛟子-ohwowbill</title>
+        <link>https://ohwowbill.github.io/categories/%E5%B7%A5%E5%85%B7/</link>
+        <description>Recent content in 工具 on 潜蛟子-ohwowbill</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ohwowbill</copyright>
+        <lastBuildDate>Sun, 06 Oct 2024 21:50:38 +0900</lastBuildDate><atom:link href="https://ohwowbill.github.io/categories/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>靈狐掌中樹</title>
+        <link>https://ohwowbill.github.io/p/%E9%9D%88%E7%8B%90%E6%8E%8C%E4%B8%AD%E6%A8%B9/</link>
+        <pubDate>Sun, 06 Oct 2024 21:50:38 +0900</pubDate>
+        
+        <guid>https://ohwowbill.github.io/p/%E9%9D%88%E7%8B%90%E6%8E%8C%E4%B8%AD%E6%A8%B9/</guid>
+        <description>&lt;div id=&#34;number-selector-0&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://unpkg.com/react@17/umd/react.production.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/react-dom@17/umd/react-dom.production.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://unpkg.com/babel-standalone@6/babel.min.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+    .button { margin: 5px; padding: 10px; cursor: pointer; }
+    .select { margin: 10px 0; }
+    .result { margin-top: 20px; }
+&lt;/style&gt;
+&lt;script type=&#34;text/babel&#34;&gt;
+    const NumberSelectorButton = () =&gt; {
+        const [isOpen, setIsOpen] = React.useState(false);
+        const [selectedNumber, setSelectedNumber] = React.useState(null);
+        const [generatedText, setGeneratedText] = React.useState({ initial: &#39;&#39;, middle: &#39;&#39;, final: &#39;&#39; });
+
+        const textMap = {
+            &#39;冠&#39;: &#39;慧&#39;, &#39;慧&#39;: &#39;納&#39;, &#39;納&#39;: &#39;憫&#39;, &#39;憫&#39;: &#39;國&#39;,
+            &#39;順&#39;: &#39;冠&#39;, &#39;麗&#39;: &#39;勝&#39;, &#39;勝&#39;: &#39;憫&#39;, &#39;榮&#39;: &#39;慧&#39;,
+            &#39;基&#39;: &#39;慧&#39;, &#39;國&#39;: &#39;國&#39;
+        };
+
+        const numberToInitialTextMap = {
+            &#39;1&#39;: &#39;冠&#39;, &#39;2&#39;: &#39;慧&#39;, &#39;3&#39;: &#39;納&#39;, &#39;4&#39;: &#39;憫&#39;, &#39;5&#39;: &#39;順&#39;,
+            &#39;6&#39;: &#39;麗&#39;, &#39;7&#39;: &#39;勝&#39;, &#39;8&#39;: &#39;榮&#39;, &#39;9&#39;: &#39;基&#39;, &#39;10&#39;: &#39;國&#39;
+        };
+
+        const handleButtonClick = () =&gt; setIsOpen(!isOpen);
+
+        const generateText = (number) =&gt; {
+            const initialText = numberToInitialTextMap[number];
+            const middleText = textMap[initialText];
+            const finalText = textMap[middleText];
+            return { initial: initialText, middle: middleText, final: finalText };
+        };
+
+        const handleNumberSelect = (event) =&gt; {
+            const value = event.target.value;
+            setSelectedNumber(value);
+            setIsOpen(false);
+            setGeneratedText(generateText(value));
+        };
+
+        const handleRandomSelect = () =&gt; {
+            const randomNumber = Math.floor(Math.random() * 10) + 1;
+            setSelectedNumber(randomNumber.toString());
+            setGeneratedText(generateText(randomNumber.toString()));
+        };
+
+        return (
+            &lt;div&gt;
+                &lt;div&gt;
+                    &lt;button className=&#34;button&#34; onClick={handleButtonClick}&gt;
+                        {isOpen ? &#39;關閉&#39; : &#39;點開&#39;}
+                    &lt;/button&gt;
+                    &lt;button className=&#34;button&#34; onClick={handleRandomSelect}&gt;
+                        隨機起數
+                    &lt;/button&gt;
+                &lt;/div&gt;
+                {isOpen &amp;&amp; (
+                    &lt;select className=&#34;select&#34; onChange={handleNumberSelect}&gt;
+                        &lt;option value=&#34;&#34;&gt;想一個數字&lt;/option&gt;
+                        {Object.keys(numberToInitialTextMap).map((number) =&gt; (
+                            &lt;option key={number} value={number}&gt;{number}&lt;/option&gt;
+                        ))}
+                    &lt;/select&gt;
+                )}
+                {selectedNumber &amp;&amp; (
+                    &lt;div className=&#34;result&#34;&gt;
+                        &lt;p&gt;初傳: {generatedText.initial}&lt;/p&gt;
+                        &lt;p&gt;中傳: {generatedText.middle}&lt;/p&gt;
+                        &lt;p&gt;三傳: {generatedText.final}&lt;/p&gt;
+                    &lt;/div&gt;
+                )}
+            &lt;/div&gt;
+        );
+    };
+
+    ReactDOM.render(&lt;NumberSelectorButton /&gt;, document.getElementById(&#39;number-selector-0&#39;));
+&lt;/script&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohwowbill.github.io/img/tree.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;排盤&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一論排盤&#34;&gt;一論排盤
+&lt;/h1&gt;&lt;h2 id=&#34;干支第一&#34;&gt;干支第一
+&lt;/h2&gt;&lt;p&gt;地支四方轉四角，天地日月在其中。&lt;/p&gt;
+&lt;p&gt;復看三奇領天干，遁去的一陰陽從。&lt;/p&gt;
+&lt;p&gt;若問排數何所遵，玄秘奧妙宇宙同。&lt;/p&gt;
+&lt;h2 id=&#34;質點第二&#34;&gt;質點第二
+&lt;/h2&gt;&lt;p&gt;冠慧納憫順，麗勝容基國。&lt;/p&gt;
+&lt;p&gt;順時掌中記，十點天地羅。&lt;/p&gt;
+&lt;h2 id=&#34;三傳第三&#34;&gt;三傳第三
+&lt;/h2&gt;&lt;p&gt;左右分，陰陽開。&lt;/p&gt;
+&lt;p&gt;初陽起，陰逆來。&lt;/p&gt;
+&lt;p&gt;天地應，干復蓋。&lt;/p&gt;
+&lt;p&gt;若遇天地乾坤載。&lt;/p&gt;
+&lt;p&gt;（注：上面的小工具祇取表面所以不用分左右了）&lt;/p&gt;
+&lt;h1 id=&#34;二論取象&#34;&gt;二論取象
+&lt;/h1&gt;&lt;p&gt;天冠入心慧，以慧納事理。&lt;/p&gt;
+&lt;p&gt;理外憫心動，唯能順天意。&lt;/p&gt;
+&lt;p&gt;麗爲外在觀，勝者幻象起。&lt;/p&gt;
+&lt;p&gt;榮譽身外挂，奠基王國立。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
