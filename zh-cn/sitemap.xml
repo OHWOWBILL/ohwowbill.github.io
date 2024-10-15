@@ -9,10 +9,10 @@
     <lastmod>2024-09-06T02:16:09+09:00</lastmod>
   </url><url>
     <loc>https://ohwowbill.github.io/p/%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8/</loc>
-    <lastmod>2024-09-14T19:30:06+09:00</lastmod>
+    <lastmod>2024-10-16T06:18:06+09:00</lastmod>
   </url><url>
     <loc>https://ohwowbill.github.io/</loc>
-    <lastmod>2024-10-06T21:50:38+09:00</lastmod>
+    <lastmod>2024-10-16T06:18:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -27,6 +27,24 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ohwowbill.github.io/"
+                />
+  </url><url>
+    <loc>https://ohwowbill.github.io/post/</loc>
+    <lastmod>2024-10-16T06:18:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ohwowbill.github.io/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ohwowbill.github.io/tr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ohwowbill.github.io/post/"
                 />
   </url><url>
     <loc>https://ohwowbill.github.io/categories/</loc>
@@ -45,24 +63,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ohwowbill.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://ohwowbill.github.io/post/</loc>
-    <lastmod>2024-10-06T21:50:38+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ohwowbill.github.io/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://ohwowbill.github.io/tr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ohwowbill.github.io/post/"
                 />
   </url><url>
     <loc>https://ohwowbill.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
